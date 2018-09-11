@@ -11,7 +11,7 @@ public class Hello {
 	// 한줄 주석표현
 	public static void main(String[] args) {
 		System.out.println("Hello Java");
-		// 컴파일 ctrl+F11 
+		// 컴파일 ctrl+F11
 		
 	}
 
