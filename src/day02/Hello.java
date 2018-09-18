@@ -12,6 +12,7 @@ public class Hello {
 	public static void main(String[] args) {
 		System.out.println("Hello Java");
 		// 컴파일 ctrl+F11
+		// 한줄 지우기 ctrl+D
 		
 	}
 
